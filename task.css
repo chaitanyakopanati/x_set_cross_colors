@@ -1,0 +1,14 @@
+.box {
+    width: 200px;
+    height: 200px;
+    top: 10px;
+    border: 2px solid black;
+    display: inline-block;
+    margin: 5px;
+}
+
+.justify {
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+}
